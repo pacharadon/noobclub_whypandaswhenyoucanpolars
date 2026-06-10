@@ -17,6 +17,8 @@ You build DataFrames from dicts, filter delivered orders, rank Uber fares within
 
 Single-file app (`index.html`), no build step — React 18 + Tailwind via CDN. Clone it, open it, go.
 
+🌸 The **sakura dark** theme is no accident — it was made on purpose. All the nerds out there: please appreciate.
+
 ## Roadmap: zero → hero
 
 This is just the beginning. We'll keep shipping **25 additional lessons at a time until the course reaches 100 lessons** — a full zero-to-hero path through Polars.
